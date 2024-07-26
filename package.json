@@ -1,4 +1,4 @@
-{
+{ "homepage":"https://MoBanerjee.github.io/youngquill",
   "name": "youngquillwebsite",
   "version": "0.1.0",
   "private": true,
@@ -11,7 +11,7 @@
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
   },
-  "homepage":"http://MoBanerjee.github.io/youngquill",
+ 
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
